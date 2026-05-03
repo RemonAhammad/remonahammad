@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/RemonAhammad/RemonAhammad/raw/main/cv.pdf"><img src="https://img.shields.io/badge/⬇_Download_CV-PDF-EA4335?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" /></a>
+  <a href="https://github.com/RemonAhammad/remonahammad/blob/main/Rimon_Ahammad_2026.pdf"><img src="https://img.shields.io/badge/📄_View_%26_Download_CV-PDF-EA4335?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" /></a>
 </p>
 
 <!---
